@@ -1,0 +1,8 @@
+{
+  "development": {
+    "PORT": 10000,
+    "MONGO_USERNAME": "skitac",
+    "MONGO_PASSWORD": "Sasko299456",
+    "jwt_secret": "this is my secret"
+  }
+}
